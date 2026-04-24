@@ -14,3 +14,8 @@
    - password: your_password
 
 4. Run project on localhost
+
+
+
+About
+This is the project done by our group named(Mahesh devkota ,sushil shrestha ,Navaraj shrestha and Bidhya sagar lekhi ) for college project
